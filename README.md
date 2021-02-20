@@ -1,24 +1,4 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Event Sourcing in rails exploration app using Ruby 3.0(.0)
+[guide is here](https://dev.to/isalevine/building-an-event-sourcing-pattern-in-rails-from-scratch-355h)
